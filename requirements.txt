@@ -3,3 +3,4 @@ pyomo
 xlwt 
 xlrd 
 openpyxl
+matplotlib
