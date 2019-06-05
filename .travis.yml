@@ -5,6 +5,6 @@ python:
 
 install:
   - pip install -r requirements.txt
-  - sudo apt-get install python3 python3-pip python3-numpy python3-scipy python3-matplotlib python3-ipython python3-notebook python3-sympy glpk-utils
+  - sudo apt-get install python3 python3-pip python3-numpy python3-scipy python3-matplotlib glpk-utils
 
 script: python test_urbs
