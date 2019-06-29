@@ -1,6 +1,0 @@
-pandas 
-pyomo 
-xlwt 
-xlrd 
-openpyxl
-matplotlib
